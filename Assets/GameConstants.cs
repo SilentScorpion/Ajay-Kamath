@@ -33,4 +33,6 @@ public class GameConstants {
 
     public static bool changesMade = true;
 
+    public static int rangeOfChangesMade = 500;
+
 }
