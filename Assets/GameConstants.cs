@@ -31,5 +31,6 @@ public class GameConstants {
     public static Vector3 playerPosition = new Vector3(-4.2f, 0.5f, 0);
 
 
+    public static bool changesMade = true;
 
 }
