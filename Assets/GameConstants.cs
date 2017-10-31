@@ -29,7 +29,6 @@ public class GameConstants {
     /**** Game related constants ****/
     public static Vector3 playSideBallPosition = new Vector3(-4.2f,3f,0);
     public static Vector3 playerPosition = new Vector3(-4.2f, 0.5f, 0);
-    
 
 
 
